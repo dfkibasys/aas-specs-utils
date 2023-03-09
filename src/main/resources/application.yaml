@@ -1,0 +1,4 @@
+#debug: true
+apiFolder: C:/Repos/aas-specs-api/
+writeOutput: true
+outputFileSuffix: .processed
